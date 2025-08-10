@@ -63,8 +63,8 @@ python port_scanner.py <TARGET> <START_PORT> <END_PORT>
 ```
 Usage
 ```
-    pip install -r requirements.txt
-    python3 portScanner.py
+pip install -r requirements.txt
+python3 portScanner.py
 ```
 
 ### [*] Support
