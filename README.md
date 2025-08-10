@@ -61,11 +61,10 @@ cd port-scanner
 pip install -r requirements.txt
 python port_scanner.py <TARGET> <START_PORT> <END_PORT>
 ```
-Options
+Usage
 ```
-  usage:
-      pip install -r requirements.txt
-      python3 portScanner.py
+    pip install -r requirements.txt
+    python3 portScanner.py
 ```
 
 ### [*] Support
