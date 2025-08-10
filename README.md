@@ -63,6 +63,8 @@ python port_scanner.py <TARGET> <START_PORT> <END_PORT>
 ```
 Usage
 ```
+git clone https://github.com/ROSHAN-Z89/Port-Scanner.git
+cd Port-Scanner
 pip install -r requirements.txt
 python3 portScanner.py
 ```
