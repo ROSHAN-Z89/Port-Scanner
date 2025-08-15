@@ -12,6 +12,13 @@
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
 
+
+---
+## 🖼️ Screenshot
+
+<p align="center">
+  <img src="pportscanner.png" alt="Port Scanner Screenshot" width="500"/>
+</p>
 ---
 
 ## 🧠 Description
