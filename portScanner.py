@@ -16,7 +16,7 @@ RESET = '\033[0m'
 # Banner
 version = "1.1"
 logo = f"""
-{CYAN}{figlet_format("URL ANALYZER", font="slant")}{YELLOW}
+{CYAN}{figlet_format("PORT SCANNER", font="slant")}{YELLOW}
                    [ v{version}]
 {GREEN}                      by R05HAN
 {RESET}
