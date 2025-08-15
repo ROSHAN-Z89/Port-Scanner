@@ -1,11 +1,27 @@
 import sys
 import socket
 import threading
-
+from pyfiglet import figlet_format
+from termcolor import colored
 usage = "python3 port_scanner.py TARGET START_PORT END_PORT"
 
 print("-" * 40)
-print("Python Simple Port Scanner")
+# Terminal Colors
+RED = '\033[91m'
+CYAN = '\033[96m'
+YELLOW = '\033[93m'
+GREEN = '\033[92m'
+RESET = '\033[0m'
+
+# Banner
+version = "1.1"
+logo = f"""
+{CYAN}{figlet_format("URL ANALYZER", font="slant")}{YELLOW}
+                   [ v{version}]
+{GREEN}                      by R05HAN
+{RESET}
+"""
+print(logo)
 print("-" * 40)
 
 if len(sys.argv) != 4:
