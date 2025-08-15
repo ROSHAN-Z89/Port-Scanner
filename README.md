@@ -17,7 +17,8 @@
 ## 🖼️ Screenshot
 
 <p align="center">
-  <img src="pportscanner.png" alt="Port Scanner Screenshot" width="500"/>
+  <img src="portscanner.png" alt="Port Scanner Screenshot" width="500"/>
+  
 </p>
 ---
 
